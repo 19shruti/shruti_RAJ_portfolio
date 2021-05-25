@@ -1,0 +1,74 @@
+ body{
+    margin:0px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+}
+
+.topbar{
+    display: flex;
+    width: 100vw;
+    overflow: hidden;
+    background-color: blue;
+}
+
+.topbar a{
+    float: right;
+    color: cornsilk;
+    text-align: center;
+    padding: 1rem;
+    text-decoration: none;
+    font-size: medium;
+}
+
+.heroIMG{
+  margin-right: auto;
+  margin-left: auto;
+ display: block;
+  max-width: 40%;
+  height: auto;
+}
+
+.intro{
+    text-align: center;
+padding-left: 20px;
+text-size-adjust: 20px;
+text-decoration-color: lawngreen;
+}
+.container{
+    height: auto;
+    width: 60%;
+    border: 8px solid grey ;
+    padding:5px;
+    margin: 20px;
+    display: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.proj{
+    text-align: center;
+}
+.proj a{
+    text-decoration: none;
+    border-radius: 2mm;
+    border-color: indigo;
+    border: 3px solid;
+}
+.im{
+    padding: 0 50px;
+    display: inline-block;
+   position: relative;
+
+}
+.form{
+    padding-left: 3%;
+    display: flex;
+    align-items:center ;
+}
+.form1{
+    padding-left: 5%;
+    display: inline-block;
+    align-items:center ;
+}
+

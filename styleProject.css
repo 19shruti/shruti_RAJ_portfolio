@@ -1,0 +1,21 @@
+body{
+background-color:honeydew;
+background-image: url(images/jj.jpg);
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+.im1{
+    height: auto;
+    width: 60%;
+    border: 3px solid rgb(199, 71, 71) ;
+    padding:5px;
+    margin: 20px;
+    display: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.im1 a{
+    text-decoration: none;
+
+}
