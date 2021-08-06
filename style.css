@@ -40,9 +40,9 @@ text-decoration-color: lawngreen;
 }
 .container{
     height: auto;
-    width: 90%;
+    width: 75%;
     border: 2px solid #F3E5F5 ;
-    padding:5px;
+    padding:15px;
     margin: 10px;
     display: center;
     text-align: center;
